@@ -13,4 +13,4 @@
 - auto post in one day
     - Logic operation in time, post at the precise time.
 - handle result
-    - Need further post sometimes. Read source code of website and what else need to do.
+    - Need further post sometimes. Read source code of website and find what else need to do.
